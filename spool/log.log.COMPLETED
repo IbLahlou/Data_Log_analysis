@@ -1,0 +1,390 @@
+[2023-08-29 16:39:21,016: INFO: main: Welcome to my custom log]
+[2023-08-29 16:42:33,351: INFO: main: Welcome to my custom log]
+[2023-08-29 18:20:13,978: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:20:13,993: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-29 18:22:53,461: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:22:53,469: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-29 18:23:39,982: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:23:39,990: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-29 18:23:50,885: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:23:50,891: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-29 18:24:17,705: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:24:17,705: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-29 18:25:49,243: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:25:49,249: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-29 18:29:41,335: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:29:41,340: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-29 18:29:52,449: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:29:52,454: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-29 18:32:43,799: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:32:43,807: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-29 18:33:01,083: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:33:01,089: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-29 18:44:35,199: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:44:35,203: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-29 18:47:50,767: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-29 18:47:50,773: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-30 10:32:17,638: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:32:17,644: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-30 10:32:23,787: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:32:23,793: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-30 10:36:36,480: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:36:36,486: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-30 10:43:11,254: INFO: 3875739439: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:45:58,067: INFO: 3875739439: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:46:36,337: INFO: 3875739439: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:46:36,343: ERROR: 3875739439: An error occurred: YAML file is empty]
+[2023-08-30 10:47:57,486: INFO: 3875739439: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:48:38,547: INFO: 3875739439: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:48:38,557:ERROR: 3875739439: An error occurred: YAML file is empty]
+[2023-08-30 10:50:00,177: INFO: 3875739439: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:50:00,184: ERROR: 3875739439: An error occurred: YAML file is empty]
+[2023-08-30 10:50:28,052: INFO: 3875739439: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:50:28,057: ERROR: 3875739439: An error occurred: YAML file is empty]
+[2023-08-30 10:50:42,762: INFO: 3875739439: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:52:34,037: INFO: 3875739439: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:53:48,453: INFO: 3875739439: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 10:53:48,464: INFO: 3875739439: yaml file: params.yaml loaded successfully]
+[2023-08-30 10:53:48,469: INFO: common: created directory at: artifacts]
+[2023-08-30 10:53:48,474: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-30 10:53:50,857: INFO: 4205007308: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 2531880
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8b6a1998e98f95404f14dd445fa4d0374bf9f5c3be8f9b4df41ca600c0460112"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: BD70:E4CF:7770D5:7C3B25:64EF11A7
+Accept-Ranges: bytes
+Date: Wed, 30 Aug 2023 09:53:49 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad22034-MAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1693389229.433488,VS0,VE289
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7e2475c34fbc8437b26577c98a970df0ec3102bc
+Expires: Wed, 30 Aug 2023 09:58:49 GMT
+Source-Age: 0
+
+]
+[2023-08-30 11:42:25,056: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-08-30 11:42:25,056: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 11:42:25,088: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-30 11:42:25,112: INFO: common: created directory at: artifacts]
+[2023-08-30 11:42:25,112: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-30 11:42:27,933: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 2531880
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8b6a1998e98f95404f14dd445fa4d0374bf9f5c3be8f9b4df41ca600c0460112"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: BD70:E4CF:7770D5:7C3B25:64EF11A7
+Accept-Ranges: bytes
+Date: Wed, 30 Aug 2023 10:42:26 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad22030-MAD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1693392146.381553,VS0,VE229
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: abe91703767030241f43110873612db731d0c01d
+Expires: Wed, 30 Aug 2023 10:47:26 GMT
+Source-Age: 0
+
+]
+[2023-08-30 11:42:28,443: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-08-30 14:19:59,540: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-08-30 14:19:59,568: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-30 14:19:59,604: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-30 14:19:59,605: INFO: common: created directory at: artifacts]
+[2023-08-30 14:19:59,609: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-30 14:20:02,684: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 2531880
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8b6a1998e98f95404f14dd445fa4d0374bf9f5c3be8f9b4df41ca600c0460112"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 60B2:206E:1778FC:181995:64EF4200
+Accept-Ranges: bytes
+Date: Wed, 30 Aug 2023 13:20:01 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad22079-MAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1693401601.914220,VS0,VE515
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 09b53d46d67095847fa2180fc7f37a637c2582bc
+Expires: Wed, 30 Aug 2023 13:25:01 GMT
+Source-Age: 0
+
+]
+[2023-08-30 14:20:02,918: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-08-31 19:35:07,591: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-08-31 19:35:07,621: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-31 19:35:07,647: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-31 19:35:07,650: INFO: common: created directory at: artifacts]
+[2023-08-31 19:35:07,652: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-31 19:35:12,354: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 93D2:F134:3653A9:37E2AE:64F0DD5C
+Accept-Ranges: bytes
+Date: Thu, 31 Aug 2023 18:35:09 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad22042-MAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1693506909.711420,VS0,VE531
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 059edb891167bef330689952ef268daad092af3d
+Expires: Thu, 31 Aug 2023 18:40:09 GMT
+Source-Age: 0
+
+]
+[2023-08-31 19:35:12,823: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-08-31 21:22:54,049: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-08-31 21:22:54,098: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-31 21:22:54,181: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-31 21:22:54,198: INFO: common: created directory at: artifacts]
+[2023-08-31 21:22:54,201: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-31 21:22:57,026: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 2531880
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8b6a1998e98f95404f14dd445fa4d0374bf9f5c3be8f9b4df41ca600c0460112"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 51D4:4AAD:44C3C1:46D053:64F0F69E
+Accept-Ranges: bytes
+Date: Thu, 31 Aug 2023 20:22:56 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad22032-MAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1693513375.318390,VS0,VE787
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b9a7e351854513dd1cf5a42f2ad0c08ffa60d26b
+Expires: Thu, 31 Aug 2023 20:27:56 GMT
+Source-Age: 1
+
+]
+[2023-08-31 21:22:57,281: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-02 13:50:07,921: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-02 13:50:07,940: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-02 13:50:07,960: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-02 13:50:07,964: INFO: common: created directory at: artifacts]
+[2023-09-02 13:50:07,967: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-02 13:50:10,450: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 2532436
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "4759875c91a855c90bf11cc9ae9c1cc4027622acc948443aab3e915502439677"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 47C4:175F:146C3ED:153C32B:64F32F7E
+Accept-Ranges: bytes
+Date: Sat, 02 Sep 2023 12:50:07 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad22046-MAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1693659007.129893,VS0,VE313
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9fb65a470e32ba2989fac39925f6056e51e32166
+Expires: Sat, 02 Sep 2023 12:55:07 GMT
+Source-Age: 0
+
+]
+[2023-09-02 13:50:10,921: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-04 11:35:57,826: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-04 11:35:57,861: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-04 11:35:57,910: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-04 11:35:57,913: INFO: common: created directory at: artifacts]
+[2023-09-04 11:35:57,918: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-04 11:36:01,718: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 2532436
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "4759875c91a855c90bf11cc9ae9c1cc4027622acc948443aab3e915502439677"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3118:0EB1:D5F37D:DFA422:64F5B30D
+Accept-Ranges: bytes
+Date: Mon, 04 Sep 2023 10:35:59 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad22065-MAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1693823759.590213,VS0,VE1269
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 26787151aba1f7c483895a25dcbceae753a593d6
+Expires: Mon, 04 Sep 2023 10:40:59 GMT
+Source-Age: 0
+
+]
+[2023-09-04 11:36:02,000: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-05 14:19:35,790: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-05 14:19:35,820: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-05 14:19:35,851: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-05 14:19:35,854: INFO: common: created directory at: artifacts]
+[2023-09-05 14:19:35,854: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-05 14:19:38,431: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 2532436
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "4759875c91a855c90bf11cc9ae9c1cc4027622acc948443aab3e915502439677"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 0D0A:387F:13CCBC:146566:64F72ADC
+Accept-Ranges: bytes
+Date: Tue, 05 Sep 2023 13:19:37 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad22063-MAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1693919977.292629,VS0,VE369
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7e55d87509fc8fc416ba70016950f64bd941dd06
+Expires: Tue, 05 Sep 2023 13:24:37 GMT
+Source-Age: 0
+
+]
+[2023-09-05 14:19:38,681: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-05 14:23:01,401: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-05 14:23:01,411: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-05 14:23:01,413: INFO: common: created directory at: artifacts]
+[2023-09-05 14:23:01,413: INFO: common: created directory at: artifacts/data_validation]
+[2023-09-05 14:29:21,954: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-05 14:29:21,961: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-05 14:29:21,966: INFO: common: created directory at: artifacts]
+[2023-09-05 14:29:21,966: INFO: common: created directory at: artifacts/data_validation]
+[2023-09-05 14:31:17,941: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-05 14:31:17,951: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-05 14:31:17,955: INFO: common: created directory at: artifacts]
+[2023-09-05 14:31:17,955: INFO: common: created directory at: artifacts/data_validation]
+[2023-09-05 14:48:12,740: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-05 14:48:12,753: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-05 14:48:12,761: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-05 14:48:12,773: INFO: common: created directory at: artifacts]
+[2023-09-05 14:48:12,773: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-05 14:48:12,778: INFO: data_ingestion: File already exists of size: ~ 2473 KB]
+[2023-09-05 14:48:13,030: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-05 14:48:13,030: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-09-05 14:48:13,040: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-05 14:48:13,050: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-05 14:48:13,054: INFO: common: created directory at: artifacts]
+[2023-09-05 14:48:13,054: INFO: common: created directory at: artifacts/data_validation]
+[2023-09-05 14:48:13,054: ERROR: main: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\samsum_dataset']
+Traceback (most recent call last):
+  File "main.py", line 20, in <module>
+    data_validation.main()
+  File "c:\users\p52s\documents\python project\spellx\src\spellX\pipeline\stage_02_data_validation.py", line 14, in main
+    data_validation.validate_all_files_exist()
+  File "c:\users\p52s\documents\python project\spellx\src\spellX\components\data_validation.py", line 30, in validate_all_files_exist
+    raise e
+  File "c:\users\p52s\documents\python project\spellx\src\spellX\components\data_validation.py", line 15, in validate_all_files_exist
+    all_files = os.listdir(os.path.join("artifacts","data_ingestion","samsum_dataset"))
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\samsum_dataset'
+[2023-09-05 14:48:38,128: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-05 14:48:38,135: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-05 14:48:38,147: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-05 14:48:38,150: INFO: common: created directory at: artifacts]
+[2023-09-05 14:48:38,153: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-05 14:48:38,161: INFO: data_ingestion: File already exists of size: ~ 2473 KB]
+[2023-09-05 14:48:38,381: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-05 14:48:38,381: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-09-05 14:48:38,390: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-05 14:48:38,397: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-05 14:48:38,400: INFO: common: created directory at: artifacts]
+[2023-09-05 14:48:38,400: INFO: common: created directory at: artifacts/data_validation]
+[2023-09-05 14:48:38,400: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-09-05 15:12:53,440: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-05 15:12:53,471: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-05 15:12:53,480: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-05 15:12:53,488: INFO: common: created directory at: artifacts]
+[2023-09-05 15:12:53,490: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-05 15:12:53,490: INFO: data_ingestion: File already exists of size: ~ 2473 KB]
+[2023-09-05 15:12:53,690: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-05 15:12:53,690: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-09-05 15:12:53,701: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-05 15:12:53,701: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-05 15:12:53,707: INFO: common: created directory at: artifacts]
+[2023-09-05 15:12:53,710: INFO: common: created directory at: artifacts/data_validation]
+
