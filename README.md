@@ -33,7 +33,7 @@ Before you begin, ensure that you have the following components installed:
 3. Start the Flume Agent:
 
     ```bash
-    flume-ng agent --conf conf --conf-file /root/big-data/flume_logs.conf --name a1 -Dflume.root.logger=INFO,console
+    flume-ng agent --conf conf --conf-file /root/big_Data/Data_Log_analysis/conf/flumelogs.conf --name a1 -Dflume.root.logger=INFO,console
     ```
 
 4. Create a directory for SpoolDir:
