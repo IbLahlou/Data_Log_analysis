@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logs Display</title>
+</head>
+<body>
+    <h1>Logs Display</h1>
+    {% if error_message %}
+        <p style="color: red;">{{ error_message }}</p>
+    {% endif %}
+    
+    <h2>Imported Logs:</h2>
+    <pre>
+        {% if logs %}
+            {{ logs }}
+        {% else %}
+            No logs imported yet.
+        {% endif %}
+    </pre>
+
+    <form action="/submit" method="post" enctype="multipart/form-data">
+        <label for="log_file">Choose a log file to import:</label>
+        <input type="file" id="log_file" name="log_file" accept=".log">
+        <br>
+        <input type="submit" value="Import Logs">
+    </form>
+</body>
+</html>
