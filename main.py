@@ -16,6 +16,7 @@ def detect_anomalies(log_message):
         print(f"Anomaly detected: {log_message}")
         # Add your custom action for handling anomalies here
 
+
 def simulate_log_stream():
     while True: 
         log_message =log_file
