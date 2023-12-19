@@ -161,6 +161,12 @@ source venv_1/bin/activate
 - **main.py**:  Generator
 - **api**: a folder wich contains a web application
 
+## Contributors
+
+- Ibrahim Lahlou
+- Zakaria Aouass
+- Mohammed Red Benkacem
+
 
 ## Project Architecture
 
