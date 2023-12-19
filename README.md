@@ -9,7 +9,6 @@ This repository provides guidance and commands for setting up Apache Flume to st
 Before you begin, ensure that you have the following components installed:
 
 - [Apache Flume](https://flume.apache.org/)
-- python 3.9
 - Java 8
 - Apache Hbase
 - Apache Hadoop
@@ -165,3 +164,4 @@ source venv_1/bin/activate
 
 ## Project Architecture
 
+![Alt text](image.png)
