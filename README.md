@@ -8,10 +8,12 @@ This repository provides guidance and commands for setting up Apache Flume to st
 
 Before you begin, ensure that you have the following components installed:
 
-- [Apache Flume](https://flume.apache.org/)
 - Java 8
-- Apache Hbase
-- Apache Hadoop
+- Apache HBase 1.4.9
+- Apache Hadoop 2.7.2
+- Apache Flume 1.9.0
+- InfluxDB
+- Phoneix
 - Grafana
 
 ## Installation and Configuration
