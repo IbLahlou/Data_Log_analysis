@@ -1,0 +1,5 @@
+# requirements.txt
+
+influxdb==5.3.1
+happybase==1.2.0
+urllib3==1.25.11

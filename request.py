@@ -1,15 +1,15 @@
 import happybase
 
 # HBase configuration
-hbase_host = '127.0.0.1'  # Replace with your HBase server hostname or IP address
-hbase_port = 9090  # Replace with your HBase Thrift server port
+hbase_host = '127.0.0.1'  
+hbase_port = 9090  
 
 # Connect to HBase
 connection = happybase.Connection(host=hbase_host, port=hbase_port)
 
 try:
     # Open a table
-    table_name = 'logs_table'  # Replace with your HBase table name
+    table_name = 'logs'  
     table = connection.table(table_name)
 
     # Perform a scan on the table
