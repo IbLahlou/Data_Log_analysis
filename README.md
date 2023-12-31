@@ -169,6 +169,10 @@ source venv_1/bin/activate
 - Zakaria Aouass
 - Mohammed Red Benkacem
 
+### Video
+
+[![Regardez la vidéo](https://img.youtube.com/vi/Vh1-GUoZEaA/0.jpg)](https://www.youtube.com/watch?v=Vh1-GUoZEaA)
+
 
 ## Project Architecture
 
