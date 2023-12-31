@@ -174,6 +174,11 @@ source venv_1/bin/activate
 [![Regardez la vidéo](https://img.youtube.com/vi/Vh1-GUoZEaA/0.jpg)](https://www.youtube.com/watch?v=Vh1-GUoZEaA)
 
 
+### Presentation
+
+Lien de la présentation : <a href="https://www.canva.com/design/DAF2eyK9BhI/kQWopg0UTk8NYbdPxAHMlg/edit?utm_content=DAF2eyK9BhI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" >6-Log-Data-Analysis</a>
+
+
 ## Project Architecture
 
 ![Alt text](image.png)
